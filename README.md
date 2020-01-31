@@ -1,8 +1,8 @@
 # note
-1. Install vim from repo
-   git pull
-   ./configure
-   make
-   make install
-2. Edit ~/.vim/autoload/plug.vim
-3. Edit ~/.vimrc
+* Install vim from repo
+   1. git pull
+   2. ./configure
+   3. make
+   4. make install
+* Edit ~/.vim/autoload/plug.vim
+* Edit ~/.vimrc
